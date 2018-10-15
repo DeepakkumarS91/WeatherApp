@@ -3,7 +3,7 @@ import Report from './Components/Report';
 import Title from './Components/Title';
 import Form from './Components/Form';
 
-const API_KEY='73df817b27c7f1bcca3214ed540c43c0';
+const API_KEY='Ur API Key';
 
 class App extends React.Component{
   constructor(props){
